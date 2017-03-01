@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="nom">Name :</string>
+    <string name="prenom">Firstname :</string>
+    <string name="domaine">Skills :</string>
+    <string name="telephone">Phone number :</string>
+    <string name="valider">Send</string>
+    <string name="age">Age :</string>
+    <string name="mess_confirmation">Are you sure of these informations ?</string>
+    <string name="title_alert_dialog">Confirmation</string>
+    <string name="retour">Back</string>
+    <string name="oui">Yes</string>
+    <string name="confirmer">Confirm</string>
+    <string name="text_info_content">This is the data entered :\r\n\tThis user name is %1$s %2$s. \r\n\tHe is %3$s years old. \r\n\tHe is gifted in %4$s. \r\n\tHis phone number is %5$s</string>
+    <string name="telephone_dial">tel:%1$s</string>
+    <string name="appeler">Call</string>
+</resources>

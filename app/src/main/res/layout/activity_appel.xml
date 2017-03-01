@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_appel"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="horizontal"
+    tools:context="com.example.hmalzieux.formulaire.AppelActivity" >
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/phone_img"
+            android:src="@drawable/telephone"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_vertical" />
+    <Button
+        android:id="@+id/but_appel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/appeler"
+        android:layout_below="@+id/phone_img"/>
+    </RelativeLayout>
+</LinearLayout>
