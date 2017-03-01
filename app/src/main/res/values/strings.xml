@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Formulaire</string>
+    <string name="nom">Nom :</string>
+    <string name="prenom">Prenom :</string>
+    <string name="domaine">Domaine de compétences :</string>
+    <string name="telephone">Téléphone :</string>
+    <string name="valider">Valider</string>
+    <string name="age">Age :</string>
+    <string name="mess_confirmation">Etes-vous sûr(e) de vos informations ?</string>
+    <string name="title_alert_dialog">Confirmation</string>
+    <string name="retour">Retour</string>
+    <string name="oui">Oui</string>
+    <string name="confirmer">Confirmer</string>
+    <string name="text_info_content">Voici les données saisies par l\'utilisateur :\r\n\til s\'appelle %1$s %2$s. \r\n\tIl a %3$s ans. \r\n\tIl est doué en %4$s. \r\n\tSon numéro de téléphone est le %5$s</string>
+    <string name="telephone_dial">tel:%1$s</string>
+    <string name="appeler">Appeler</string>
+</resources>
